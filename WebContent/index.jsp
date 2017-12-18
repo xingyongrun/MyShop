@@ -233,7 +233,7 @@
 								<input type="submit" id="login" value="登录">
 								<label for="checkbox"><input type="checkbox" id="checkbox"> <i>Remember me</i></label>
 							</fieldset>
-							<p>新用户 ? <a class="sign" href="${ctx}/regist.jsp">注册</a> <span><a href="${ctx}/adminlogin.jsp">管理员登录</a></span></p>
+							<p>新用户 ? <a class="sign" href="${ctx}/regist.jsp">注册</a> <span><a href="#">忘记密码</a></span></p>
 						</form>
 						</c:if>
 					</div>
